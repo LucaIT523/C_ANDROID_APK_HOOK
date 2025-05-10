@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoFCM_V1", "AutoFCM_V1\AutoFCM_V1.vcxproj", "{6D31CD3C-F028-4AE4-96F9-8F9334370E92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D31CD3C-F028-4AE4-96F9-8F9334370E92}.Debug|x64.ActiveCfg = Debug|x64
+		{6D31CD3C-F028-4AE4-96F9-8F9334370E92}.Debug|x64.Build.0 = Debug|x64
+		{6D31CD3C-F028-4AE4-96F9-8F9334370E92}.Debug|x86.ActiveCfg = Debug|Win32
+		{6D31CD3C-F028-4AE4-96F9-8F9334370E92}.Debug|x86.Build.0 = Debug|Win32
+		{6D31CD3C-F028-4AE4-96F9-8F9334370E92}.Release|x64.ActiveCfg = Release|x64
+		{6D31CD3C-F028-4AE4-96F9-8F9334370E92}.Release|x64.Build.0 = Release|x64
+		{6D31CD3C-F028-4AE4-96F9-8F9334370E92}.Release|x86.ActiveCfg = Release|Win32
+		{6D31CD3C-F028-4AE4-96F9-8F9334370E92}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7786CDC-6B67-4C3F-A46C-5BF7B36790D1}
+	EndGlobalSection
+EndGlobal
